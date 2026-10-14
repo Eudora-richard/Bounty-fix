@@ -138,4 +138,4 @@ No license has been selected yet. Add a license before distributing or accepting
 
 ---
 
-Built with 🚀 by the BountyFix team.
+Built by Eudora.
